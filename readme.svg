@@ -21,10 +21,7 @@
           0%{
             background-position: bottom right;
           }
-          25%{
-            background-position: bottom left;
-          }
-          75%{
+          50%{
             background-position: bottom left;
           }
           100%{
@@ -45,7 +42,7 @@
           color: white;
         }
         .header1 a{
-          background: linear-gradient(to left, transparent 49%, white 49%);
+          background: linear-gradient(to left, transparent 51%, white 51%);
           background-repeat: no-repeat;
           background-size: 200% 3px;
           background-position: bottom right;
