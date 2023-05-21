@@ -34,6 +34,10 @@
             }
         }
         
+        body{
+          background-color: rgb(30, 30, 40);
+        }
+        
         .header1{
           animation: menuLoadAnimation 1s cubic-bezier(0.77, 0, 0.175, 1);
           width: 100%;
@@ -68,12 +72,14 @@
         }
       </style>
       
-      <div class="header1">
-        <p class="pcontainer">
-          adamecki
-          <a href="#0">website</a>
-        </p>
-      </div>
+      <body>
+        <div class="header1">
+          <p class="pcontainer">
+            adamecki
+            <a href="#0">website</a>
+          </p>
+        </div>
+      </body>
     </div>
   </foreignObject>
 </svg>
