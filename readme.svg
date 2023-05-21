@@ -21,6 +21,9 @@
           0%{
             background-position: bottom right;
           }
+          20%{
+            background-position: bottom left;
+          }
           50%{
             background-position: bottom left;
           }
