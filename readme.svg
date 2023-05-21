@@ -25,6 +25,21 @@
             }
         }
         
+        @keyframes demoUnderlineAnimation{
+          0%{
+            background-position: bottom right;
+          }
+          25%{
+            background-position: bottom left;
+          }
+          75%{
+            background-position: bottom left;
+          }
+          100%{
+            background-position: bottom right;
+          }
+        }
+        
         .header1{
           animation: menuLoadAnimation 1s cubic-bezier(0.77, 0, 0.175, 1);
           width: 100%;
