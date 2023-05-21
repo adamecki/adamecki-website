@@ -6,6 +6,9 @@
           0%{
             opacity: 0;
           }
+          50%{
+            opacity: 0;
+          }
           100%{
             opacity: 1;
           }
@@ -81,7 +84,7 @@
         }
         
         .container{
-          animation: mainLoadAnimation 300ms ease;
+          animation: mainLoadAnimation 3s ease;
           height: auto;
           margin-top: 50px;
           margin-left: 1%;
