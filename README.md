@@ -1,6 +1,3 @@
-
-<html lang="pl">
-  <style>
-
-  </style>
-</html>
+<div style="width: 100%;">
+  <img src="readme.svg" style="width: 100%;" alt="Plik README">
+</div>
