@@ -19,16 +19,16 @@
         
         @keyframes demoUnderlineAnimation{
           0%{
+            background-position: bottom right;
+          }
+          40%{
             background-position: bottom left;
           }
-          20%{
-            background-position: bottom right;
-          }
-          80%{
-            background-position: bottom right;
+          60%{
+            background-position: bottom left;
           }
           100%{
-            background-position: bottom left;
+            background-position: bottom right;
           }
         }
         
