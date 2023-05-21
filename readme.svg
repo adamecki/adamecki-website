@@ -4,11 +4,11 @@
       <style>
         @font-face{
           font-family: Ubuntu;
-          src: url(./src/fonts/Ubuntu/Ubuntu-Regular.ttf);
+          src: url(./Ubuntu-Regular.ttf);
         }
         @font-face{
           font-family: UbuntuLight;
-          src: url(./src/fonts/Ubuntu/Ubuntu-Light.ttf);
+          src: url(./Ubuntu-Light.ttf);
         }
         
         @keyframes menuLoadAnimation{
