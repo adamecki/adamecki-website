@@ -1,10 +1,9 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg" style="background-color: rgb(30, 30, 40);">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
+      <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css?family=Ubuntu">
       <style>
-        <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
-        @import url("https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700,700i");
-        
         @keyframes menuLoadAnimation{
           0%{
             opacity: 0;
