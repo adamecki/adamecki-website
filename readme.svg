@@ -4,7 +4,7 @@
       <style>
         @font-face{
           font-family: Ubuntu;
-          src: url(./Ubuntu-Regular.ttf);
+          src: url(https://fonts.googleapis.com/css?family=Ubuntu);
         }
         @font-face{
           font-family: UbuntuLight;
